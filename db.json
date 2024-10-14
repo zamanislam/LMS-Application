@@ -1,0 +1,41 @@
+{
+    "Courses":[
+        {
+            "course":"HTML & CSS",
+            "duration":"1 month",
+            "fees":"20000",
+            "image":"https://media.istockphoto.com/id/1424809056/photo/getter-then-less-then-icon-3d-render-concept-for-web-development.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZSel8B8QsR1OruJ6FooCDvnncXk1XjXRISqrjZv7fQM="
+        },
+        {
+            "course":"Basic JavaScript",
+            "duration":"1 month",
+            "fees":"25000"
+        },
+        {
+            "course":"Advanced JavaScript",
+            "duration":"2 month",
+            "fees":"35000"
+        },
+        {
+            "course":"Basic React",
+            "duration":"1 month",
+            "fees":"40000"
+        },
+        {
+            "course":"Advanced React",
+            "duration":"2 month",
+            "fees":"45000"
+        },
+        {
+            "course":"Full Stack Web Development",
+            "duration":"7 month",
+            "fees":"80000"
+        },
+        {
+            "course":"Data Analytics",
+            "duration":"8 month",
+            "fees":"10000"
+        }
+
+    ]
+}
