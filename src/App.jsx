@@ -2,7 +2,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 import { BrowserRouter as Router, useLocation } from "react-router-dom";
 import { AppRoutes } from "./routes/AppRoute";
 import { AuthProvider } from "./context/AuthContext";
-import { Navbar } from "./components/Navbar";
+import { Navbar } from "./components/navbar";
 import { Footer } from "./components/footer";
 
 
